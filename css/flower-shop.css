@@ -167,10 +167,44 @@ nav ul li a {
     padding: 150px;
 }
 
-.Subscribe input{
-width: 70%;
-padding: 15px;
-border: 0;
-margin-right: 10px;
-outline: 0;
+.Subscribe input {
+    width: 70%;
+    padding: 15px;
+    border: 0;
+    margin-right: 10px;
+    outline: 0;
+}
+
+
+/* Footer css */
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 150px;
+}
+
+.footer-title {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.shop {
+    color: white;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    width: 60%;
+    margin: 0 auto;
 }
