@@ -142,7 +142,18 @@ nav ul li a {
     font-size: 24px;
     font-weight: 700;
 }
+
 .feature-content {
     display: flex;
     gap: 24px;
+}
+
+/* Hot Deal css */
+.hot-deal {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+
+.btn-sign-up {
+    text-align: center;
 }
