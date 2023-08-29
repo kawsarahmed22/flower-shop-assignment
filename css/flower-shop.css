@@ -41,6 +41,26 @@ p {
     border: 0;
 }
 
+.section-container {
+    margin-top: 100px;
+}
+
+.section-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.section-description {
+
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 24px 0;
+
+}
 
 main {
     max-width: 1140px;
@@ -89,9 +109,11 @@ nav ul li a {
     align-items: center;
     justify-content: space-between
 }
+
 .banner-image {
     width: 50%;
 }
+
 .banner-title {
     color: #272727;
     font-size: 80px;
@@ -104,4 +126,23 @@ nav ul li a {
     font-size: 18px;
     font-weight: 400;
     margin: 30px 0;
+}
+
+
+/* Feature css */
+
+.feature-description {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.flower p {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+}
+.feature-content {
+    display: flex;
+    gap: 24px;
 }
