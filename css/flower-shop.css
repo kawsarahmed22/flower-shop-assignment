@@ -157,3 +157,20 @@ nav ul li a {
 .btn-sign-up {
     text-align: center;
 }
+
+/* Latest Deal */
+
+.latest-deal {
+    background-image: url("../images/rectangle-9.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px;
+}
+
+.Subscribe input{
+width: 70%;
+padding: 15px;
+border: 0;
+margin-right: 10px;
+outline: 0;
+}
